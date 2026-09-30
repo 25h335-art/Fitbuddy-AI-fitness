@@ -1,0 +1,6 @@
+{
+  "name": "FitBuddy – AI Fitness Plan Generator",
+  "description": "Personalized AI-powered fitness, workout and nutrition plans tailored to your body, goals, and schedule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
